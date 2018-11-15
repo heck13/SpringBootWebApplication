@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title xxx</title>
+    <title>Title</title>
 </head>
 <body>
-    blalalal csf oksfs f
+    La la la la la la la
 </body>
 </html>
