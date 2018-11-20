@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-    La la la la la la la
+   My first jsp!!
 </body>
 </html>
