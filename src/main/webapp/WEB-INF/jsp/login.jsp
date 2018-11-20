@@ -5,6 +5,10 @@
     <title>Title</title>
 </head>
 <body>
-   My first jsp!!
+    <form method="post">
+        Name: <input type="text" name="name" />
+        Pass: <input type="password" name="password" />
+        <input type="submit" />
+    </form>
 </body>
 </html>
